@@ -1,0 +1,42 @@
+body{
+    background: url(img/manga.jpg);
+    background-attachment: fixed;
+}
+
+.bg-dark {
+    background-color: #3b2f4bec!important;
+}
+
+.bg-secondary {
+    background-color: #22162bef!important;
+}
+
+.bg-info {
+    background-color: #ffffffef!important;
+}
+
+img {
+    filter: grayscale(100%);
+}
+
+nav img  {
+    width: 70px;
+}
+
+.font-weight-bold {
+    font-family:sans-serif!important;
+}
+
+.display-4 {
+    font-size: 20px;
+}
+
+.display-3 {
+  font-size: 25px;
+}
+
+video {
+    /* override other styles to make responsive */
+    width: 100%    !important;
+    height: auto   !important;
+  }
