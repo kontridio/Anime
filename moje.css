@@ -1,5 +1,6 @@
 body{
     background: url(img/zenicu.jpg);
+    filter: blur(8px);
     background-attachment: fixed;
 }
 
