@@ -3,6 +3,10 @@ body{
     background-attachment: fixed;
 }
 
+.container-fluid {
+    width: 80%;
+}
+
 .bg-dark {
     background-color: #3b2f4bec!important;
 }
